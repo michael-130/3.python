@@ -4,6 +4,7 @@
 print('')
 print('(This is Hello)')
 print('Hello My name is Michael')
+print('Hello My name is Michael')
 print('')
 
 #Variable and Data types
