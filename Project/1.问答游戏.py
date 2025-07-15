@@ -15,7 +15,12 @@ if 答案.lower() == "中央处理器" or 答案.lower() == "central processing 
    分数 += 20
 else:
     print("错误！")
-
+答案 = input("CPU代表什么？ ")
+if 答案.lower() == "中央处理器" or 答案.lower() == "central processing unit":
+   print("正确！")
+   分数 += 20
+else:
+    print("错误！")
 #2
 答案 = input("GPU代表什么？ ")
 if 答案.lower() == "图形处理器" or 答案.lower() == "graphics processing unit":
