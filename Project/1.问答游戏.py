@@ -13,12 +13,7 @@ print("好的！让我们开始玩吧 :)")
 print("好的！让我们开始玩吧 :)")
 分数 = 0
 print("好的！让我们开始玩吧 :)")
-分数 = 0
-print("好的！让我们开始玩吧 :)")
-分数 = 0print("好的！让我们开始玩吧 :)")
-分数 = 0
-
-#1
+分#1
 答案 = input("CPU代表什么？ ")
 if 答案.lower() == "中央处理器" or 答案.lower() == "central processing unit":
    print("正确！")
